@@ -6,4 +6,4 @@ My primary interests lies in AI planning, model learning, and analysis of abstra
 
 🔭 I’m currently working on interrogation of autonomous agents where based on agent’s responses, we can reason about its internal model.
 
-To know more, please visit <a href="pulkitverma.net" target="_blank">pulkitverma.net</a>.
+To know more, please visit <a href="https://pulkitverma.net" target="_blank">pulkitverma.net</a>.
